@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilkermoderno</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.workana.com/freelancer/bae8fa5d192be3ecd7608c10d05ab276"><i>wilkermoderno</i></a></h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.saga.com.br/cursos?utm_id=google"><i>Saga Cursos</i></a> 
 
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/wilkermoderno/wilkermoderno/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
